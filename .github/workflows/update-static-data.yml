@@ -44,7 +44,7 @@ jobs:
         with:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
-          projectName: 'sw-static-data'
+          projectName: 'openbit-static-data'
           gitHubToken: ${{ secrets.GH_AUTOMATION_TOKEN }}
           branch: ${{ github.event.inputs.branch }}
           directory: './data'
