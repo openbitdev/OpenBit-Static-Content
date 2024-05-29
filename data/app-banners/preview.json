@@ -3,7 +3,7 @@
     "id": 5,
     "position": "token_detail",
     "priority": 2,
-    "media": "https://static-data.subwallet.app/app-banners/images/media/polkassembly_d_App_preview_f4d0722fdd.png",
+    "media": "https://static-data.openbit.app/app-banners/images/media/polkassembly_d_App_preview_f4d0722fdd.png",
     "info": {
       "id": 12,
       "name": "Swap introduction ",
@@ -38,7 +38,7 @@
     "id": 12,
     "position": "crowdloan",
     "priority": 1,
-    "media": "https://static-data.subwallet.app/app-banners/images/media/Stake_DOT_earn_airdrop_popup_ccdbfe771b.png",
+    "media": "https://static-data.openbit.app/app-banners/images/media/Stake_DOT_earn_airdrop_popup_ccdbfe771b.png",
     "info": {
       "id": 25,
       "name": "Stake DOT get VARCH",
@@ -72,7 +72,7 @@
     "id": 22,
     "position": "token_detail",
     "priority": 2,
-    "media": "https://static-data.subwallet.app/app-banners/images/media/d_App_preview_stellaswap_5865af7a48.png",
+    "media": "https://static-data.openbit.app/app-banners/images/media/d_App_preview_stellaswap_5865af7a48.png",
     "info": {
       "id": 46,
       "name": "Swap introduction 2",
@@ -102,5 +102,52 @@
     ],
     "conditions": {},
     "instruction": null
+  },
+  {
+    "id": 23,
+    "position": "token_detail",
+    "priority": null,
+    "media": "https://static-data.openbit.app/app-banners/images/media/A0_Common_Drops_284373f250.png",
+    "info": {
+      "id": 47,
+      "name": "Get Common Drop airdrop!",
+      "description": "Get Common Drop airdrop!",
+      "start_time": "2024-05-27T17:00:00.000Z",
+      "stop_time": "2024-06-03T17:00:00.000Z",
+      "platforms": [
+        "mobile"
+      ],
+      "os": null
+    },
+    "action": {
+      "id": 41,
+      "url": "subwallet://home/main/earning/earning-pool-list?group=aleph-NATIVE-AZERO&symbol=AZERO",
+      "screen": null,
+      "params": null,
+      "is_cancel": null
+    },
+    "position_params": [
+      {
+        "property": "tokenSlug",
+        "value": "aleph-NATIVE-AZERO"
+      }
+    ],
+    "conditions": {
+      "condition-balance": [
+        {
+          "comparison": "gt",
+          "value": 10,
+          "chain_asset": "aleph-NATIVE-AZERO"
+        }
+      ]
+    },
+    "instruction": {
+      "id": 20,
+      "confirm_label": "Stake AZERO",
+      "cancel_label": "Dismiss",
+      "instruction_id": 36,
+      "group": "earning",
+      "slug": "DEMO_VARA"
+    }
   }
 ]

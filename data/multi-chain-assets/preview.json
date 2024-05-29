@@ -5,7 +5,7 @@
     "symbol": "ETH",
     "priceId": "ethereum",
     "hasValue": true,
-    "icon": "https://static-data.subwallet.app/multi-chain-assets/images/icon/ethereum_02384e1ab0.png",
+    "icon": "https://static-data.openbit.app/multi-chain-assets/images/icon/ethereum_02384e1ab0.png",
     "originChainAsset": "ethereum-NATIVE-ETH",
     "chainAssets": [
       "ethereum-NATIVE-ETH",
@@ -27,7 +27,7 @@
     "symbol": "iBTC",
     "priceId": "interbtc",
     "hasValue": true,
-    "icon": "https://static-data.subwallet.app/multi-chain-assets/images/icon/ibtc_537a25a650.png",
+    "icon": "https://static-data.openbit.app/multi-chain-assets/images/icon/ibtc_537a25a650.png",
     "originChainAsset": "interlay-LOCAL-iBTC",
     "chainAssets": [
       "moonbeam-LOCAL-xcIBTC",
@@ -42,7 +42,7 @@
     "symbol": "GLMR",
     "priceId": "moonbeam",
     "hasValue": true,
-    "icon": "https://static-data.subwallet.app/multi-chain-assets/images/icon/moonbeam_fe54e27668.png",
+    "icon": "https://static-data.openbit.app/multi-chain-assets/images/icon/moonbeam_fe54e27668.png",
     "originChainAsset": "moonbeam-NATIVE-GLMR",
     "chainAssets": [
       "moonbeam-NATIVE-GLMR",
@@ -58,7 +58,7 @@
     "symbol": "DOT",
     "priceId": "polkadot",
     "hasValue": true,
-    "icon": "https://static-data.subwallet.app/multi-chain-assets/images/icon/polkadot_63b5dd41ef.png",
+    "icon": "https://static-data.openbit.app/multi-chain-assets/images/icon/polkadot_63b5dd41ef.png",
     "originChainAsset": "polkadot-NATIVE-DOT",
     "chainAssets": [
       "polkadot-NATIVE-DOT",
@@ -85,7 +85,7 @@
     "symbol": "ACA",
     "priceId": "acala",
     "hasValue": true,
-    "icon": "https://static-data.subwallet.app/multi-chain-assets/images/icon/acala_45dd03b9eb.png",
+    "icon": "https://static-data.openbit.app/multi-chain-assets/images/icon/acala_45dd03b9eb.png",
     "originChainAsset": "acala-NATIVE-ACA",
     "chainAssets": [
       "acala-NATIVE-ACA",
@@ -102,7 +102,7 @@
     "symbol": "MOVR",
     "priceId": "moonriver",
     "hasValue": true,
-    "icon": "https://static-data.subwallet.app/multi-chain-assets/images/icon/moonriver_06b4e41abc.png",
+    "icon": "https://static-data.openbit.app/multi-chain-assets/images/icon/moonriver_06b4e41abc.png",
     "originChainAsset": "moonriver-NATIVE-MOVR",
     "chainAssets": [
       "moonriver-NATIVE-MOVR",
@@ -118,7 +118,7 @@
     "symbol": "USDT",
     "priceId": "tether",
     "hasValue": true,
-    "icon": "https://static-data.subwallet.app/multi-chain-assets/images/icon/usdt_4cb06afd80.png",
+    "icon": "https://static-data.openbit.app/multi-chain-assets/images/icon/usdt_4cb06afd80.png",
     "originChainAsset": null,
     "chainAssets": [
       "acala-LOCAL-USDT",
@@ -153,7 +153,7 @@
     "symbol": "ASTR",
     "priceId": "astar",
     "hasValue": true,
-    "icon": "https://static-data.subwallet.app/multi-chain-assets/images/icon/astr_eb0e51ec62.png",
+    "icon": "https://static-data.openbit.app/multi-chain-assets/images/icon/astr_eb0e51ec62.png",
     "originChainAsset": "astar-NATIVE-ASTR",
     "chainAssets": [
       "astar-NATIVE-ASTR",
@@ -171,7 +171,7 @@
     "symbol": "DEV",
     "priceId": null,
     "hasValue": false,
-    "icon": "https://static-data.subwallet.app/multi-chain-assets/images/icon/moonbase_242572020d.png",
+    "icon": "https://static-data.openbit.app/multi-chain-assets/images/icon/moonbase_242572020d.png",
     "originChainAsset": "moonbase-NATIVE-DEV",
     "chainAssets": [
       "moonbase-NATIVE-DEV"
@@ -183,7 +183,7 @@
     "symbol": "DAI",
     "priceId": "dai",
     "hasValue": true,
-    "icon": "https://static-data.subwallet.app/multi-chain-assets/images/icon/dai_de0c0d96e2.png",
+    "icon": "https://static-data.openbit.app/multi-chain-assets/images/icon/dai_de0c0d96e2.png",
     "originChainAsset": null,
     "chainAssets": [
       "calamari-LOCAL-DAI",
@@ -201,7 +201,7 @@
     "symbol": "DPR",
     "priceId": "deeper-network",
     "hasValue": true,
-    "icon": "https://static-data.subwallet.app/multi-chain-assets/images/icon/deeper_network_42d182d92c.png",
+    "icon": "https://static-data.openbit.app/multi-chain-assets/images/icon/deeper_network_42d182d92c.png",
     "originChainAsset": "ethereum-ERC20-DPR-0xf3AE5d769e153Ef72b4e3591aC004E89F48107a1",
     "chainAssets": [
       "deeper_network-NATIVE-DPR",
@@ -214,7 +214,7 @@
     "symbol": "BNC",
     "priceId": "bifrost-native-coin",
     "hasValue": true,
-    "icon": "https://static-data.subwallet.app/multi-chain-assets/images/icon/bifrost_7bc34a05fc.png",
+    "icon": "https://static-data.openbit.app/multi-chain-assets/images/icon/bifrost_7bc34a05fc.png",
     "originChainAsset": "bifrost-NATIVE-BNC",
     "chainAssets": [
       "bifrost-NATIVE-BNC",
@@ -229,7 +229,7 @@
     "symbol": "BOBA",
     "priceId": "boba-network",
     "hasValue": true,
-    "icon": "https://static-data.subwallet.app/multi-chain-assets/images/icon/boba_network_6f4acdcfd4.png",
+    "icon": "https://static-data.openbit.app/multi-chain-assets/images/icon/boba_network_6f4acdcfd4.png",
     "originChainAsset": null,
     "chainAssets": [
       "boba-ERC20-BOBA-0xa18bf3994c0cc6e3b63ac420308e5383f53120d7"
@@ -241,7 +241,7 @@
     "symbol": "CRU",
     "priceId": "crust-network",
     "hasValue": true,
-    "icon": "https://static-data.subwallet.app/multi-chain-assets/images/icon/crust_fafb1c8870.png",
+    "icon": "https://static-data.openbit.app/multi-chain-assets/images/icon/crust_fafb1c8870.png",
     "originChainAsset": "crust-NATIVE-CRU",
     "chainAssets": [
       "crust-NATIVE-CRU",
@@ -255,7 +255,7 @@
     "symbol": "SDN",
     "priceId": "shiden",
     "hasValue": true,
-    "icon": "https://static-data.subwallet.app/multi-chain-assets/images/icon/shiden_07d4fa824e.png",
+    "icon": "https://static-data.openbit.app/multi-chain-assets/images/icon/shiden_07d4fa824e.png",
     "originChainAsset": "shiden-NATIVE-SDN",
     "chainAssets": [
       "shiden-NATIVE-SDN",
@@ -269,7 +269,7 @@
     "symbol": "ARB",
     "priceId": "arbitrum",
     "hasValue": true,
-    "icon": "https://static-data.subwallet.app/multi-chain-assets/images/icon/arbitrum_09c31bf783.png",
+    "icon": "https://static-data.openbit.app/multi-chain-assets/images/icon/arbitrum_09c31bf783.png",
     "originChainAsset": "arbitrum_one-ERC20-ARB-0x912CE59144191C1204E64559FE8253a0e49E6548",
     "chainAssets": [
       "arbitrum_one-ERC20-ARB-0x912CE59144191C1204E64559FE8253a0e49E6548"
@@ -281,7 +281,7 @@
     "symbol": "USDD",
     "priceId": "usdd",
     "hasValue": true,
-    "icon": "https://static-data.subwallet.app/multi-chain-assets/images/icon/usdd_ed7e4a4167.png",
+    "icon": "https://static-data.openbit.app/multi-chain-assets/images/icon/usdd_ed7e4a4167.png",
     "originChainAsset": null,
     "chainAssets": [
       "ethereum-ERC20-USDD-0x0C10bF8FcB7Bf5412187A595ab97a3609160b5c6",
@@ -294,7 +294,7 @@
     "symbol": "NEER",
     "priceId": "metaverse-network-pioneer",
     "hasValue": true,
-    "icon": "https://static-data.subwallet.app/multi-chain-assets/images/icon/bit_country_pioneer_6b3dad41bb.png",
+    "icon": "https://static-data.openbit.app/multi-chain-assets/images/icon/bit_country_pioneer_6b3dad41bb.png",
     "originChainAsset": "pioneer-NATIVE-NEER",
     "chainAssets": [
       "pioneer-NATIVE-NEER",
@@ -307,7 +307,7 @@
     "symbol": "KAR",
     "priceId": "karura",
     "hasValue": true,
-    "icon": "https://static-data.subwallet.app/multi-chain-assets/images/icon/karura_112a4d2645.png",
+    "icon": "https://static-data.openbit.app/multi-chain-assets/images/icon/karura_112a4d2645.png",
     "originChainAsset": "karura-NATIVE-KAR",
     "chainAssets": [
       "calamari-LOCAL-KAR",
@@ -325,7 +325,7 @@
     "symbol": "PKEX",
     "priceId": "polkaex",
     "hasValue": true,
-    "icon": "https://static-data.subwallet.app/multi-chain-assets/images/icon/pkex_7066e77679.png",
+    "icon": "https://static-data.openbit.app/multi-chain-assets/images/icon/pkex_7066e77679.png",
     "originChainAsset": null,
     "chainAssets": [
       "astarEvm-ERC20-PKEX-0x1fE622E91e54D6AD00B01917351Ea6081426764A",
@@ -338,7 +338,7 @@
     "symbol": "aSEED",
     "priceId": "ausd-seed-acala",
     "hasValue": true,
-    "icon": "https://static-data.subwallet.app/multi-chain-assets/images/icon/aseed_43d91ef3a9.png",
+    "icon": "https://static-data.openbit.app/multi-chain-assets/images/icon/aseed_43d91ef3a9.png",
     "originChainAsset": "acala-LOCAL-aSEED",
     "chainAssets": [
       "acala-LOCAL-aSEED",
@@ -353,7 +353,7 @@
     "symbol": "MATIC",
     "priceId": "matic-network",
     "hasValue": true,
-    "icon": "https://static-data.subwallet.app/multi-chain-assets/images/icon/polygon_66024badc0.png",
+    "icon": "https://static-data.openbit.app/multi-chain-assets/images/icon/polygon_66024badc0.png",
     "originChainAsset": "polygon-NATIVE-MATIC",
     "chainAssets": [
       "polygon-NATIVE-MATIC"
@@ -365,7 +365,7 @@
     "symbol": "kBTC",
     "priceId": "kintsugi-btc",
     "hasValue": true,
-    "icon": "https://static-data.subwallet.app/multi-chain-assets/images/icon/kbtc_e479f7b0f2.png",
+    "icon": "https://static-data.openbit.app/multi-chain-assets/images/icon/kbtc_e479f7b0f2.png",
     "originChainAsset": "kintsugi-LOCAL-kBTC",
     "chainAssets": [
       "kintsugi-LOCAL-kBTC",
@@ -378,7 +378,7 @@
     "symbol": "FTM",
     "priceId": "fantom",
     "hasValue": true,
-    "icon": "https://static-data.subwallet.app/multi-chain-assets/images/icon/ftm_16069596f6.png",
+    "icon": "https://static-data.openbit.app/multi-chain-assets/images/icon/ftm_16069596f6.png",
     "originChainAsset": "fantom-NATIVE-FTM",
     "chainAssets": [
       "ethereum-ERC20-FTM-0x4E15361FD6b4BB609Fa63C81A2be19d873717870",
@@ -392,7 +392,7 @@
     "symbol": "aUSD",
     "priceId": "acala-dollar",
     "hasValue": true,
-    "icon": "https://static-data.subwallet.app/multi-chain-assets/images/icon/ausd_8c96420071.png",
+    "icon": "https://static-data.openbit.app/multi-chain-assets/images/icon/ausd_8c96420071.png",
     "originChainAsset": null,
     "chainAssets": []
   },
@@ -402,7 +402,7 @@
     "symbol": "PHA",
     "priceId": "pha",
     "hasValue": true,
-    "icon": "https://static-data.subwallet.app/multi-chain-assets/images/icon/phala_network_84a301ea7e.png",
+    "icon": "https://static-data.openbit.app/multi-chain-assets/images/icon/phala_network_84a301ea7e.png",
     "originChainAsset": "phala-NATIVE-PHA",
     "chainAssets": [
       "phala-NATIVE-PHA",
@@ -416,7 +416,7 @@
     "symbol": "WETH",
     "priceId": "weth",
     "hasValue": true,
-    "icon": "https://static-data.subwallet.app/multi-chain-assets/images/icon/ethereum_02384e1ab0.png",
+    "icon": "https://static-data.openbit.app/multi-chain-assets/images/icon/ethereum_02384e1ab0.png",
     "originChainAsset": "ethereum-ERC20-WETH-0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
     "chainAssets": [
       "ethereum-ERC20-WETH-0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
@@ -429,7 +429,7 @@
     "symbol": "BUSD",
     "priceId": "binance-usd",
     "hasValue": true,
-    "icon": "https://static-data.subwallet.app/multi-chain-assets/images/icon/busd_b4005e1fcb.png",
+    "icon": "https://static-data.openbit.app/multi-chain-assets/images/icon/busd_b4005e1fcb.png",
     "originChainAsset": "binance-ERC20-BUSD-0xe9e7cea3dedca5984780bafc599bd69add087d56",
     "chainAssets": [
       "calamari-LOCAL-BUSD",
@@ -445,7 +445,7 @@
     "symbol": "EQ",
     "priceId": "equilibrium-token",
     "hasValue": true,
-    "icon": "https://static-data.subwallet.app/multi-chain-assets/images/icon/eq_46f89bf74f.png",
+    "icon": "https://static-data.openbit.app/multi-chain-assets/images/icon/eq_46f89bf74f.png",
     "originChainAsset": "equilibrium_parachain-NATIVE-EQ",
     "chainAssets": [
       "equilibrium_parachain-NATIVE-EQ",
@@ -458,7 +458,7 @@
     "symbol": "BNB",
     "priceId": "binancecoin",
     "hasValue": true,
-    "icon": "https://static-data.subwallet.app/multi-chain-assets/images/icon/bnb_b1fba6c9cd.png",
+    "icon": "https://static-data.openbit.app/multi-chain-assets/images/icon/bnb_b1fba6c9cd.png",
     "originChainAsset": "binance-NATIVE-BNB",
     "chainAssets": [
       "binance-NATIVE-BNB",
@@ -475,7 +475,7 @@
     "symbol": "USDC",
     "priceId": "usd-coin",
     "hasValue": true,
-    "icon": "https://static-data.subwallet.app/multi-chain-assets/images/icon/usdc_9b034b4c48.png",
+    "icon": "https://static-data.openbit.app/multi-chain-assets/images/icon/usdc_9b034b4c48.png",
     "originChainAsset": null,
     "chainAssets": [
       "calamari-LOCAL-USDC",
@@ -510,7 +510,7 @@
     "symbol": "RMRK",
     "priceId": "rmrk",
     "hasValue": true,
-    "icon": "https://static-data.subwallet.app/multi-chain-assets/images/icon/rmrk_token_a9c5fab4d1.png",
+    "icon": "https://static-data.openbit.app/multi-chain-assets/images/icon/rmrk_token_a9c5fab4d1.png",
     "originChainAsset": "statemine-LOCAL-RMRK",
     "chainAssets": [
       "statemine-LOCAL-RMRK",
@@ -525,7 +525,7 @@
     "symbol": "KINT",
     "priceId": "kintsugi",
     "hasValue": true,
-    "icon": "https://static-data.subwallet.app/multi-chain-assets/images/icon/kintsugi_974d070433.png",
+    "icon": "https://static-data.openbit.app/multi-chain-assets/images/icon/kintsugi_974d070433.png",
     "originChainAsset": "kintsugi-NATIVE-KINT",
     "chainAssets": [
       "kintsugi-NATIVE-KINT",
@@ -538,7 +538,7 @@
     "symbol": "WBTC",
     "priceId": "wrapped-bitcoin",
     "hasValue": true,
-    "icon": "https://static-data.subwallet.app/multi-chain-assets/images/icon/btc_3cd8607524.png",
+    "icon": "https://static-data.openbit.app/multi-chain-assets/images/icon/btc_3cd8607524.png",
     "originChainAsset": null,
     "chainAssets": [
       "calamari-LOCAL-WBTC",
@@ -554,7 +554,7 @@
     "symbol": "aSEED",
     "priceId": "ausd-seed-karura",
     "hasValue": true,
-    "icon": "https://static-data.subwallet.app/multi-chain-assets/images/icon/aseed_43d91ef3a9.png",
+    "icon": "https://static-data.openbit.app/multi-chain-assets/images/icon/aseed_43d91ef3a9.png",
     "originChainAsset": "karura-LOCAL-aSEED",
     "chainAssets": [
       "karura-LOCAL-aSEED",
@@ -571,7 +571,7 @@
     "symbol": "aUSD",
     "priceId": "acala-dollar-acala",
     "hasValue": true,
-    "icon": "https://static-data.subwallet.app/multi-chain-assets/images/icon/ausd_8c96420071.png",
+    "icon": "https://static-data.openbit.app/multi-chain-assets/images/icon/ausd_8c96420071.png",
     "originChainAsset": null,
     "chainAssets": []
   },
@@ -581,7 +581,7 @@
     "symbol": "EQD",
     "priceId": null,
     "hasValue": true,
-    "icon": "https://static-data.subwallet.app/multi-chain-assets/images/icon/eqd_13d0ba55aa.png",
+    "icon": "https://static-data.openbit.app/multi-chain-assets/images/icon/eqd_13d0ba55aa.png",
     "originChainAsset": "equilibrium_parachain-LOCAL-EQD",
     "chainAssets": [
       "moonbeam-LOCAL-xcEQD",
@@ -594,7 +594,7 @@
     "symbol": "KMA",
     "priceId": "calamari-network",
     "hasValue": true,
-    "icon": "https://static-data.subwallet.app/multi-chain-assets/images/icon/calamarinetwork_18f99dc098.png",
+    "icon": "https://static-data.openbit.app/multi-chain-assets/images/icon/calamarinetwork_18f99dc098.png",
     "originChainAsset": "calamari-NATIVE-KMA",
     "chainAssets": [
       "calamari-NATIVE-KMA",
@@ -607,7 +607,7 @@
     "symbol": "OP",
     "priceId": "optimism",
     "hasValue": true,
-    "icon": "https://static-data.subwallet.app/multi-chain-assets/images/icon/optimism_858dfbe0e0.png",
+    "icon": "https://static-data.openbit.app/multi-chain-assets/images/icon/optimism_858dfbe0e0.png",
     "originChainAsset": "optimism-ERC20-OP-0x4200000000000000000000000000000000000042",
     "chainAssets": [
       "optimism-ERC20-OP-0x4200000000000000000000000000000000000042"
@@ -619,7 +619,7 @@
     "symbol": "PARA",
     "priceId": "parallel-finance",
     "hasValue": true,
-    "icon": "https://static-data.subwallet.app/multi-chain-assets/images/icon/parallel_4a3b2a90fe.png",
+    "icon": "https://static-data.openbit.app/multi-chain-assets/images/icon/parallel_4a3b2a90fe.png",
     "originChainAsset": "parallel-NATIVE-PARA",
     "chainAssets": [
       "parallel-NATIVE-PARA",
@@ -632,7 +632,7 @@
     "symbol": "KSM",
     "priceId": "kusama",
     "hasValue": true,
-    "icon": "https://static-data.subwallet.app/multi-chain-assets/images/icon/kusama_b9766f7606.png",
+    "icon": "https://static-data.openbit.app/multi-chain-assets/images/icon/kusama_b9766f7606.png",
     "originChainAsset": "kusama-NATIVE-KSM",
     "chainAssets": [
       "kusama-NATIVE-KSM",
@@ -646,7 +646,8 @@
       "bifrost-LOCAL-KSM",
       "bridgeHubKusama-NATIVE-KSM",
       "amplitude-LOCAL-KSM",
-      "peopleKusama-NATIVE-KSM"
+      "peopleKusama-NATIVE-KSM",
+      "statemint-LOCAL-KSM"
     ]
   },
   {
@@ -655,7 +656,7 @@
     "symbol": "INTR",
     "priceId": "interlay",
     "hasValue": true,
-    "icon": "https://static-data.subwallet.app/multi-chain-assets/images/icon/interlay_04ffc38b2d.png",
+    "icon": "https://static-data.openbit.app/multi-chain-assets/images/icon/interlay_04ffc38b2d.png",
     "originChainAsset": "interlay-NATIVE-INTR",
     "chainAssets": [
       "moonbeam-LOCAL-xcINTR",
@@ -671,7 +672,7 @@
     "symbol": "ENJ",
     "priceId": "enjincoin",
     "hasValue": true,
-    "icon": "https://static-data.subwallet.app/multi-chain-assets/images/icon/enjin_relaychain_9684b417ca.png",
+    "icon": "https://static-data.openbit.app/multi-chain-assets/images/icon/enjin_relaychain_9684b417ca.png",
     "originChainAsset": "enjin_relaychain-NATIVE-ENJ",
     "chainAssets": [
       "enjin_matrixchain-NATIVE-ENJ",
@@ -684,7 +685,7 @@
     "symbol": "CFG",
     "priceId": "centrifuge",
     "hasValue": true,
-    "icon": "https://static-data.subwallet.app/multi-chain-assets/images/icon/centrifuge_7293c743a5.png",
+    "icon": "https://static-data.openbit.app/multi-chain-assets/images/icon/centrifuge_7293c743a5.png",
     "originChainAsset": "centrifuge-NATIVE-CFG",
     "chainAssets": [
       "centrifuge-NATIVE-CFG",
@@ -697,7 +698,7 @@
     "symbol": "MANTA",
     "priceId": "manta-network",
     "hasValue": true,
-    "icon": "https://static-data.subwallet.app/multi-chain-assets/images/icon/Manta_Network_c03baa8d75.png",
+    "icon": "https://static-data.openbit.app/multi-chain-assets/images/icon/Manta_Network_c03baa8d75.png",
     "originChainAsset": "manta_network-NATIVE-MANTA",
     "chainAssets": [
       "manta_network_evm-ERC20-MANTA-0x95CeF13441Be50d20cA4558CC0a27B601aC544E5",
@@ -712,7 +713,7 @@
     "symbol": "PINK",
     "priceId": null,
     "hasValue": true,
-    "icon": "https://static-data.subwallet.app/multi-chain-assets/images/icon/pink_e453d7277c.png",
+    "icon": "https://static-data.openbit.app/multi-chain-assets/images/icon/pink_e453d7277c.png",
     "originChainAsset": "statemint-LOCAL-PINK",
     "chainAssets": [
       "statemint-LOCAL-PINK",
@@ -734,7 +735,7 @@
     "symbol": "BNC",
     "priceId": "bifrost-native-coin",
     "hasValue": true,
-    "icon": "https://static-data.subwallet.app/multi-chain-assets/images/icon/bifrost_44b3c3fd65.png",
+    "icon": "https://static-data.openbit.app/multi-chain-assets/images/icon/bifrost_44b3c3fd65.png",
     "originChainAsset": "bifrost_dot-NATIVE-BNC",
     "chainAssets": [
       "bifrost_dot-NATIVE-BNC",
@@ -747,7 +748,7 @@
     "symbol": "DED",
     "priceId": "dot-is-ded",
     "hasValue": true,
-    "icon": "https://static-data.subwallet.app/multi-chain-assets/images/icon/ded_277c75073c.png",
+    "icon": "https://static-data.openbit.app/multi-chain-assets/images/icon/ded_277c75073c.png",
     "originChainAsset": "statemint-LOCAL-DED",
     "chainAssets": [
       "hydradx_main-LOCAL-DED",
@@ -761,7 +762,7 @@
     "symbol": "BNCS",
     "priceId": null,
     "hasValue": true,
-    "icon": "https://static-data.subwallet.app/multi-chain-assets/images/icon/bncs_c523bed97f.png",
+    "icon": "https://static-data.openbit.app/multi-chain-assets/images/icon/bncs_c523bed97f.png",
     "originChainAsset": "bifrost_dot-LOCAL-BNCS",
     "chainAssets": [
       "bifrost_dot-LOCAL-BNCS",
@@ -774,7 +775,7 @@
     "symbol": "APE",
     "priceId": "apecoin",
     "hasValue": true,
-    "icon": "https://static-data.subwallet.app/multi-chain-assets/images/icon/apecoin_91858cf6cd.png",
+    "icon": "https://static-data.openbit.app/multi-chain-assets/images/icon/apecoin_91858cf6cd.png",
     "originChainAsset": "ethereum-ERC20-APE-0x4d224452801ACEd8B2F0aebE155379bb5D594381",
     "chainAssets": [
       "ethereum-ERC20-APE-0x4d224452801ACEd8B2F0aebE155379bb5D594381",
@@ -787,7 +788,7 @@
     "symbol": "vDOT",
     "priceId": "voucher-dot",
     "hasValue": true,
-    "icon": "https://static-data.subwallet.app/multi-chain-assets/images/icon/vdot_fdab8d59c8.png",
+    "icon": "https://static-data.openbit.app/multi-chain-assets/images/icon/vdot_fdab8d59c8.png",
     "originChainAsset": "bifrost_dot-LOCAL-vDOT",
     "chainAssets": [
       "bifrost_dot-LOCAL-vDOT",
@@ -801,7 +802,7 @@
     "symbol": "BEEFY",
     "priceId": null,
     "hasValue": true,
-    "icon": "https://static-data.subwallet.app/multi-chain-assets/images/icon/beefy2_af29e30ce9.png",
+    "icon": "https://static-data.openbit.app/multi-chain-assets/images/icon/beefy2_af29e30ce9.png",
     "originChainAsset": "statemint-LOCAL-BEEFY",
     "chainAssets": [
       "statemint-LOCAL-BEEFY",
@@ -814,7 +815,7 @@
     "symbol": "HMND",
     "priceId": "humanode",
     "hasValue": true,
-    "icon": "https://static-data.subwallet.app/multi-chain-assets/images/icon/chain_humanode_9202d14ee7.png",
+    "icon": "https://static-data.openbit.app/multi-chain-assets/images/icon/chain_humanode_9202d14ee7.png",
     "originChainAsset": "humanode-NATIVE-HMND",
     "chainAssets": [
       "humanode-NATIVE-HMND",
@@ -828,7 +829,7 @@
     "symbol": "STINK",
     "priceId": null,
     "hasValue": true,
-    "icon": "https://static-data.subwallet.app/multi-chain-assets/images/icon/stink_65292f21c8.png",
+    "icon": "https://static-data.openbit.app/multi-chain-assets/images/icon/stink_65292f21c8.png",
     "originChainAsset": "statemint-LOCAL-STINK",
     "chainAssets": [
       "statemint-LOCAL-STINK",
@@ -842,7 +843,7 @@
     "symbol": "HDX",
     "priceId": "hydradx",
     "hasValue": true,
-    "icon": "https://static-data.subwallet.app/multi-chain-assets/images/icon/hydradx_a80c4584de.png",
+    "icon": "https://static-data.openbit.app/multi-chain-assets/images/icon/hydradx_a80c4584de.png",
     "originChainAsset": "hydradx_main-NATIVE-HDX",
     "chainAssets": [
       "hydradx_main-NATIVE-HDX",
@@ -855,7 +856,7 @@
     "symbol": "XLM.s",
     "priceId": "stellar",
     "hasValue": true,
-    "icon": "https://static-data.subwallet.app/multi-chain-assets/images/icon/xlm_152b847369.png",
+    "icon": "https://static-data.openbit.app/multi-chain-assets/images/icon/xlm_152b847369.png",
     "originChainAsset": null,
     "chainAssets": [
       "pendulum-LOCAL-XLM.s",
@@ -868,7 +869,7 @@
     "symbol": "AUDD.s",
     "priceId": "novatti-australian-digital-dollar",
     "hasValue": true,
-    "icon": "https://static-data.subwallet.app/multi-chain-assets/images/icon/audd_d875c908b9.png",
+    "icon": "https://static-data.openbit.app/multi-chain-assets/images/icon/audd_d875c908b9.png",
     "originChainAsset": null,
     "chainAssets": [
       "pendulum-LOCAL-AUDD.s",
@@ -881,7 +882,7 @@
     "symbol": "EURC.s",
     "priceId": null,
     "hasValue": true,
-    "icon": "https://static-data.subwallet.app/multi-chain-assets/images/icon/eurc_dada4aa275.png",
+    "icon": "https://static-data.openbit.app/multi-chain-assets/images/icon/eurc_dada4aa275.png",
     "originChainAsset": null,
     "chainAssets": [
       "pendulum-LOCAL-EURC.s",
@@ -894,7 +895,7 @@
     "symbol": "BRL.s",
     "priceId": null,
     "hasValue": true,
-    "icon": "https://static-data.subwallet.app/multi-chain-assets/images/icon/brl_6473c8d810.png",
+    "icon": "https://static-data.openbit.app/multi-chain-assets/images/icon/brl_6473c8d810.png",
     "originChainAsset": null,
     "chainAssets": [
       "pendulum-LOCAL-BRL.s",
@@ -907,7 +908,7 @@
     "symbol": "NGNC.s",
     "priceId": null,
     "hasValue": true,
-    "icon": "https://static-data.subwallet.app/multi-chain-assets/images/icon/ngnc_1e36db9f0f.png",
+    "icon": "https://static-data.openbit.app/multi-chain-assets/images/icon/ngnc_1e36db9f0f.png",
     "originChainAsset": null,
     "chainAssets": [
       "pendulum-LOCAL-NGNC.s",
@@ -920,7 +921,7 @@
     "symbol": "WUD",
     "priceId": null,
     "hasValue": true,
-    "icon": "https://static-data.subwallet.app/multi-chain-assets/images/icon/wud_4aa551727c.png",
+    "icon": "https://static-data.openbit.app/multi-chain-assets/images/icon/wud_4aa551727c.png",
     "originChainAsset": "statemint-LOCAL-WUD",
     "chainAssets": [
       "statemint-LOCAL-WUD",
@@ -933,7 +934,7 @@
     "symbol": "WIFD",
     "priceId": null,
     "hasValue": true,
-    "icon": "https://static-data.subwallet.app/multi-chain-assets/images/icon/wifd_6a8eda5e39.png",
+    "icon": "https://static-data.openbit.app/multi-chain-assets/images/icon/wifd_6a8eda5e39.png",
     "originChainAsset": "statemint-LOCAL-WIFD",
     "chainAssets": [
       "statemint-LOCAL-WIFD",

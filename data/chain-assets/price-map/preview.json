@@ -615,5 +615,6 @@
   "bitcoin-RUNE-RSIC•GENESIS•RUNE-840000:28": null,
   "bitcoin-RUNE-UNCOMMON•GOODS-1:0": null,
   "bitcoin-RUNE-RUNES•X•BITCOIN-840000:142": null,
-  "bounceBitEvmTest-NATIVE-BB": null
+  "bounceBitEvmTest-NATIVE-BB": null,
+  "statemint-LOCAL-KSM": "kusama"
 }

@@ -16,8 +16,8 @@
       "lucky_draw"
     ],
     "campaign_url": "https://creditcoin.org/",
-    "logo": "https://static-data.subwallet.app/airdrop-campaigns/images/logo/creditcoin_448a940bb0.png",
-    "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/Creditcoin_Quest_N_campaign_328d460006.png",
+    "logo": "https://static-data.openbit.app/airdrop-campaigns/images/logo/creditcoin_448a940bb0.png",
+    "backdrop_image": "https://static-data.openbit.app/airdrop-campaigns/images/backdrop_image/Creditcoin_Quest_N_campaign_328d460006.png",
     "chains": [
       "creditcoinTest",
       "creditcoinTestEvm"
@@ -40,8 +40,8 @@
       "lucky_draw"
     ],
     "campaign_url": "https://unique.network/",
-    "logo": "https://static-data.subwallet.app/airdrop-campaigns/images/logo/unique_network_b207ab1ac7.png",
-    "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/Unique_NFT_contest_9436e9de22.jpg",
+    "logo": "https://static-data.openbit.app/airdrop-campaigns/images/logo/unique_network_b207ab1ac7.png",
+    "backdrop_image": "https://static-data.openbit.app/airdrop-campaigns/images/backdrop_image/Unique_NFT_contest_9436e9de22.jpg",
     "chains": [
       "unique_network"
     ]
@@ -63,8 +63,8 @@
       "lucky_draw"
     ],
     "campaign_url": "https://stellaswap.com/",
-    "logo": "https://static-data.subwallet.app/airdrop-campaigns/images/logo/stellaswap_5112d4145b.png",
-    "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/Stella_Swap_Galxe_campaign_89a3ec5863.png",
+    "logo": "https://static-data.openbit.app/airdrop-campaigns/images/logo/stellaswap_5112d4145b.png",
+    "backdrop_image": "https://static-data.openbit.app/airdrop-campaigns/images/backdrop_image/Stella_Swap_Galxe_campaign_89a3ec5863.png",
     "chains": [
       "moonbeam"
     ]
@@ -86,8 +86,8 @@
       "points"
     ],
     "campaign_url": "https://www.tanssi.network/",
-    "logo": "https://static-data.subwallet.app/airdrop-campaigns/images/logo/tanssi_2e13dc9c66.png",
-    "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/Tanssi_Network_Let_s_Forkin_Dance_ebcf7a8a63.jpg",
+    "logo": "https://static-data.openbit.app/airdrop-campaigns/images/logo/tanssi_2e13dc9c66.png",
+    "backdrop_image": "https://static-data.openbit.app/airdrop-campaigns/images/backdrop_image/Tanssi_Network_Let_s_Forkin_Dance_ebcf7a8a63.jpg",
     "chains": [
       "dancebox"
     ]
@@ -109,8 +109,8 @@
       "lucky_draw"
     ],
     "campaign_url": "https://bifrost.finance/",
-    "logo": "https://static-data.subwallet.app/airdrop-campaigns/images/logo/bifrost_44b3c3fd65.png",
-    "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/Bifrost_x_Mimir_Airlyft_campaign_1969d67dbd.jpg",
+    "logo": "https://static-data.openbit.app/airdrop-campaigns/images/logo/bifrost_44b3c3fd65.png",
+    "backdrop_image": "https://static-data.openbit.app/airdrop-campaigns/images/backdrop_image/Bifrost_x_Mimir_Airlyft_campaign_1969d67dbd.jpg",
     "chains": [
       "bifrost_dot"
     ]
@@ -133,8 +133,8 @@
       "points"
     ],
     "campaign_url": "https://stellaswap.com/",
-    "logo": "https://static-data.subwallet.app/airdrop-campaigns/images/logo/stellaswap_5112d4145b.png",
-    "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/st_DOT_BOOST_campaign_09a8bcbce9.png",
+    "logo": "https://static-data.openbit.app/airdrop-campaigns/images/logo/stellaswap_5112d4145b.png",
+    "backdrop_image": "https://static-data.openbit.app/airdrop-campaigns/images/backdrop_image/st_DOT_BOOST_campaign_09a8bcbce9.png",
     "chains": [
       "moonbeam",
       "polkadot"
@@ -157,8 +157,8 @@
       "lucky_draw"
     ],
     "campaign_url": "https://www.availproject.org/",
-    "logo": "https://static-data.subwallet.app/airdrop-campaigns/images/logo/avail_16bb040742.png",
-    "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/Avail_Galxe_campaign_ca74389678.jpg",
+    "logo": "https://static-data.openbit.app/airdrop-campaigns/images/logo/avail_16bb040742.png",
+    "backdrop_image": "https://static-data.openbit.app/airdrop-campaigns/images/backdrop_image/Avail_Galxe_campaign_ca74389678.jpg",
     "chains": [
       "goldberg_testnet"
     ]
@@ -180,8 +180,8 @@
       "fcfs"
     ],
     "campaign_url": "https://moonwell.fi/",
-    "logo": "https://static-data.subwallet.app/airdrop-campaigns/images/logo/moonwell_728c173d60.png",
-    "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/Moonwell_is_PINK_Galxe_campaign_98368861cd.png",
+    "logo": "https://static-data.openbit.app/airdrop-campaigns/images/logo/moonwell_728c173d60.png",
+    "backdrop_image": "https://static-data.openbit.app/airdrop-campaigns/images/backdrop_image/Moonwell_is_PINK_Galxe_campaign_98368861cd.png",
     "chains": [
       "moonbeam"
     ]
@@ -203,8 +203,8 @@
       "lucky_draw"
     ],
     "campaign_url": "https://airlyft.one/",
-    "logo": "https://static-data.subwallet.app/airdrop-campaigns/images/logo/airlyft_f23e57e74e.png",
-    "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/Airlyft_is_PINK_campaign_8ca0addbbd.png",
+    "logo": "https://static-data.openbit.app/airdrop-campaigns/images/logo/airlyft_f23e57e74e.png",
+    "backdrop_image": "https://static-data.openbit.app/airdrop-campaigns/images/backdrop_image/Airlyft_is_PINK_campaign_8ca0addbbd.png",
     "chains": [
       "moonbeam"
     ]
@@ -226,8 +226,8 @@
       "lucky_draw"
     ],
     "campaign_url": "https://astar.network/",
-    "logo": "https://static-data.subwallet.app/airdrop-campaigns/images/logo/astar_zkevm_e3c6c227da.png",
-    "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/Airlyft_zk_EVM_by_Astar_c1b35d5416.png",
+    "logo": "https://static-data.openbit.app/airdrop-campaigns/images/logo/astar_zkevm_e3c6c227da.png",
+    "backdrop_image": "https://static-data.openbit.app/airdrop-campaigns/images/backdrop_image/Airlyft_zk_EVM_by_Astar_c1b35d5416.png",
     "chains": [
       "astarZkEvm"
     ]
@@ -249,8 +249,8 @@
       "lucky_draw"
     ],
     "campaign_url": "https://bifrost.app/",
-    "logo": "https://static-data.subwallet.app/airdrop-campaigns/images/logo/bifrost_polkadot_b85046fb9e.png",
-    "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/vdotisded_e4faf83730.webp",
+    "logo": "https://static-data.openbit.app/airdrop-campaigns/images/logo/bifrost_polkadot_b85046fb9e.png",
+    "backdrop_image": "https://static-data.openbit.app/airdrop-campaigns/images/backdrop_image/vdotisded_e4faf83730.webp",
     "chains": [
       "bifrost_dot"
     ]
@@ -273,8 +273,8 @@
       "points"
     ],
     "campaign_url": "https://mnet.io/",
-    "logo": "https://static-data.subwallet.app/airdrop-campaigns/images/logo/bit_country_continuum_5f92dd7fcc.png",
-    "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/mnet_campaign_d269d1136a.png",
+    "logo": "https://static-data.openbit.app/airdrop-campaigns/images/logo/bit_country_continuum_5f92dd7fcc.png",
+    "backdrop_image": "https://static-data.openbit.app/airdrop-campaigns/images/backdrop_image/mnet_campaign_d269d1136a.png",
     "chains": [
       "continuum_network"
     ]
@@ -297,8 +297,8 @@
       "points"
     ],
     "campaign_url": "https://mnet.io/",
-    "logo": "https://static-data.subwallet.app/airdrop-campaigns/images/logo/bit_country_continuum_5f92dd7fcc.png",
-    "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/mnet_zealy_campaign_1e2101ab35.jpeg",
+    "logo": "https://static-data.openbit.app/airdrop-campaigns/images/logo/bit_country_continuum_5f92dd7fcc.png",
+    "backdrop_image": "https://static-data.openbit.app/airdrop-campaigns/images/backdrop_image/mnet_zealy_campaign_1e2101ab35.jpeg",
     "chains": [
       "continuum_network"
     ]
@@ -320,8 +320,8 @@
       "fcfs"
     ],
     "campaign_url": "https://airlyft.one/bifrost-finance/omni-ls-moonbeam",
-    "logo": "https://static-data.subwallet.app/airdrop-campaigns/images/logo/bifrost_polkadot_b85046fb9e.png",
-    "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/bifrost_moonbeam_a82f6c23ef.webp",
+    "logo": "https://static-data.openbit.app/airdrop-campaigns/images/logo/bifrost_polkadot_b85046fb9e.png",
+    "backdrop_image": "https://static-data.openbit.app/airdrop-campaigns/images/backdrop_image/bifrost_moonbeam_a82f6c23ef.webp",
     "chains": [
       "bifrost_dot",
       "moonbeam"
@@ -344,8 +344,8 @@
       "points"
     ],
     "campaign_url": "https://airlyft.one/bifrost-finance/road-to-the-unlock",
-    "logo": "https://static-data.subwallet.app/airdrop-campaigns/images/logo/bifrost_polkadot_b85046fb9e.png",
-    "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/bifrost_moonbeam_a82f6c23ef.webp",
+    "logo": "https://static-data.openbit.app/airdrop-campaigns/images/logo/bifrost_polkadot_b85046fb9e.png",
+    "backdrop_image": "https://static-data.openbit.app/airdrop-campaigns/images/backdrop_image/bifrost_moonbeam_a82f6c23ef.webp",
     "chains": [
       "bifrost_dot"
     ]
@@ -367,8 +367,8 @@
       "manual_selection"
     ],
     "campaign_url": "https://web.subwallet.app/home/earning/overview",
-    "logo": "https://static-data.subwallet.app/airdrop-campaigns/images/logo/wallet_connect_9ed43a1b95.png",
-    "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/image_2_2e3a8054b5.png",
+    "logo": "https://static-data.openbit.app/airdrop-campaigns/images/logo/wallet_connect_9ed43a1b95.png",
+    "backdrop_image": "https://static-data.openbit.app/airdrop-campaigns/images/backdrop_image/image_2_2e3a8054b5.png",
     "chains": [
       "polkadot",
       "bifrost_dot",
@@ -395,8 +395,8 @@
       "manual_selection"
     ],
     "campaign_url": "https://airlyft.one/zeitgeist/coindesk-index",
-    "logo": "https://static-data.subwallet.app/airdrop-campaigns/images/logo/zeitgeist_a72652f11c.png",
-    "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/zeitgeist_6ca1f96bd6.webp",
+    "logo": "https://static-data.openbit.app/airdrop-campaigns/images/logo/zeitgeist_a72652f11c.png",
+    "backdrop_image": "https://static-data.openbit.app/airdrop-campaigns/images/backdrop_image/zeitgeist_6ca1f96bd6.webp",
     "chains": [
       "zeitgeist"
     ]
@@ -418,8 +418,8 @@
       "fcfs"
     ],
     "campaign_url": "https://airlyft.one/bifrost-finance/polkadot-unlock-harvest",
-    "logo": "https://static-data.subwallet.app/airdrop-campaigns/images/logo/bifrost_polkadot_b85046fb9e.png",
-    "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/bifrost_moonbeam_a82f6c23ef.webp",
+    "logo": "https://static-data.openbit.app/airdrop-campaigns/images/logo/bifrost_polkadot_b85046fb9e.png",
+    "backdrop_image": "https://static-data.openbit.app/airdrop-campaigns/images/backdrop_image/bifrost_moonbeam_a82f6c23ef.webp",
     "chains": [
       "bifrost_dot"
     ]
@@ -441,8 +441,8 @@
       "fcfs"
     ],
     "campaign_url": "https://airlyft.one/bifrost-finance/omni-ls-polkadot-wallets",
-    "logo": "https://static-data.subwallet.app/airdrop-campaigns/images/logo/bifrost_polkadot_b85046fb9e.png",
-    "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/bifrost_moonbeam_a82f6c23ef.webp",
+    "logo": "https://static-data.openbit.app/airdrop-campaigns/images/logo/bifrost_polkadot_b85046fb9e.png",
+    "backdrop_image": "https://static-data.openbit.app/airdrop-campaigns/images/backdrop_image/bifrost_moonbeam_a82f6c23ef.webp",
     "chains": [
       "bifrost_dot"
     ]
@@ -464,8 +464,8 @@
       "points"
     ],
     "campaign_url": "https://www.dotisded.io/",
-    "logo": "https://static-data.subwallet.app/airdrop-campaigns/images/logo/ded_277c75073c.png",
-    "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/GGJJW_63_Ws_AER_Hdh_fef9a37345.jpeg",
+    "logo": "https://static-data.openbit.app/airdrop-campaigns/images/logo/ded_277c75073c.png",
+    "backdrop_image": "https://static-data.openbit.app/airdrop-campaigns/images/backdrop_image/GGJJW_63_Ws_AER_Hdh_fef9a37345.jpeg",
     "chains": [
       "polkadot"
     ]
@@ -487,8 +487,8 @@
       "lucky_draw"
     ],
     "campaign_url": "https://bifrost.app/",
-    "logo": "https://static-data.subwallet.app/airdrop-campaigns/images/logo/bifrost_polkadot_b85046fb9e.png",
-    "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/GFL_7p1d_WUA_Eschq_f6004397f2.jpeg",
+    "logo": "https://static-data.openbit.app/airdrop-campaigns/images/logo/bifrost_polkadot_b85046fb9e.png",
+    "backdrop_image": "https://static-data.openbit.app/airdrop-campaigns/images/backdrop_image/GFL_7p1d_WUA_Eschq_f6004397f2.jpeg",
     "chains": [
       "bifrost_dot",
       "zeitgeist"
@@ -511,8 +511,8 @@
       "points"
     ],
     "campaign_url": "https://www.dotisded.io/",
-    "logo": "https://static-data.subwallet.app/airdrop-campaigns/images/logo/ded_277c75073c.png",
-    "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/GGJJW_63_Ws_AER_Hdh_fef9a37345.jpeg",
+    "logo": "https://static-data.openbit.app/airdrop-campaigns/images/logo/ded_277c75073c.png",
+    "backdrop_image": "https://static-data.openbit.app/airdrop-campaigns/images/backdrop_image/GGJJW_63_Ws_AER_Hdh_fef9a37345.jpeg",
     "chains": [
       "polkadot"
     ]
@@ -535,8 +535,8 @@
       "lucky_draw"
     ],
     "campaign_url": "https://grillapp.net/6479?ref=6479",
-    "logo": "https://static-data.subwallet.app/airdrop-campaigns/images/logo/Logo_Gradient_Background_Black_cbf44085a7.png",
-    "backdrop_image": "https://static-data.subwallet.app/airdrop-campaigns/images/backdrop_image/Revised_641a84b12b.png",
+    "logo": "https://static-data.openbit.app/airdrop-campaigns/images/logo/Logo_Gradient_Background_Black_cbf44085a7.png",
+    "backdrop_image": "https://static-data.openbit.app/airdrop-campaigns/images/backdrop_image/Revised_641a84b12b.png",
     "chains": [
       "subsocial_x"
     ]
