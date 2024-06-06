@@ -137,7 +137,7 @@
         {
           "comparison": "gt",
           "value": 10,
-          "chain_asset": "aleph-NATIVE-AZERO"
+          "chain_asset": null
         }
       ]
     },
@@ -149,5 +149,26 @@
       "group": "earning",
       "slug": "DEMO_VARA"
     }
+  },
+  {
+    "id": 24,
+    "position": "token",
+    "priority": null,
+    "media": "https://static-data.openbit.app/app-banners/images/media/Trade_DED_on_HDX_8d72cf4969.png",
+    "info": {
+      "id": 48,
+      "name": "Test-Show banner in token screen on OpenBit",
+      "description": null,
+      "start_time": "2024-06-05T17:00:00.000Z",
+      "stop_time": "2024-06-06T16:45:00.000Z",
+      "platforms": [
+        "extension"
+      ],
+      "os": null
+    },
+    "action": null,
+    "position_params": [],
+    "conditions": {},
+    "instruction": null
   }
 ]
