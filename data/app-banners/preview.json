@@ -159,7 +159,7 @@
       "id": 48,
       "name": "Test-Show banner in token screen on OpenBit",
       "description": null,
-      "start_time": "2024-06-05T17:00:00.000Z",
+      "start_time": "2024-06-04T17:00:00.000Z",
       "stop_time": "2024-06-06T16:45:00.000Z",
       "platforms": [
         "extension"
