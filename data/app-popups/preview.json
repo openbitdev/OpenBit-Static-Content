@@ -31,67 +31,21 @@
     "conditions": {}
   },
   {
-    "id": 19,
-    "priority": 1,
-    "position": "token",
-    "repeat": "once",
-    "content": "![dApp preview - stellaswap.png](https://media-resources.subwallet.app/d_App_preview_stellaswap_5865af7a48.png)\n\nVersion 1.1.50(364)\n>- **New assets supported**: BEEFY on AssetHub and HydraDX, xcDED on Moonbeam \n>- **Warning added**: Do not transfer cross-chain to an exchange!\n\n>![Swap is live.png](https://media-resources.subwallet.app/Swap_is_live_2d8184d2c3.png)\n>*  New assets supported: BEEFY on AssetHub and HydraDX, xcDED on Moonbeam \n>---\n>*  Warning added: Do not transfer cross-chain to an exchange! [Click here!](https://web.subwallet.app/welcome)\n\n---\n\n#### **Version 1.1.50(364)**\n*  New assets supported: BEEFY on AssetHub and HydraDX, xcDED on Moonbeam \n*  Warning added: Do not transfer cross-chain to an exchange! [Click here!](https://web.subwallet.app/welcome)\n\n* New assets supported: BEEFY on AssetHub and HydraDX, xcDED on Moonbeam \n* New assets supported: BEEFY on AssetHub and HydraDX, xcDED on Moonbeam\n\n---\n\nWarning added: Do not transfer cross-chain to an exchange! [Click here!](https://web.subwallet.app/welcome)\n",
-    "repeat_every_x_days": null,
-    "media": null,
-    "position_params": [],
-    "info": {
-      "id": 40,
-      "name": "Test - What's new?1",
-      "description": "Update Version v1.1.50(364)",
-      "start_time": "2024-04-20T17:00:00.000Z",
-      "stop_time": "2024-05-30T17:00:00.000Z",
-      "platforms": [
-        "mobile",
-        "extension"
-      ],
-      "os": null
-    },
-    "buttons": [
-      {
-        "id": 37,
-        "label": "Cancel",
-        "color": "secondary",
-        "instruction": null,
-        "action": null
-      },
-      {
-        "id": 31,
-        "label": "I understand",
-        "color": "primary",
-        "instruction": null,
-        "action": {
-          "id": 40,
-          "url": "subwallet://home/main/earning",
-          "screen": null,
-          "params": null,
-          "is_cancel": null
-        }
-      }
-    ],
-    "conditions": {}
-  },
-  {
     "id": 20,
-    "priority": 1,
+    "priority": 2,
     "position": "token",
-    "repeat": "once",
-    "content": null,
+    "repeat": "every_time",
+    "content": "![StellaSwap-Galxe campaign.png](https://media-resources.subwallet.app//9/Stella_Swap_Galxe_campaign_89a3ec5863.png)",
     "repeat_every_x_days": null,
     "media": null,
     "position_params": [],
     "info": {
       "id": 41,
-      "name": "Test earning popup",
-      "description": "Earning popup",
-      "start_time": "2024-05-07T17:00:00.000Z",
-      "stop_time": "2024-06-12T17:00:00.000Z",
+      "name": "Test show popup in token screen on OpenBit",
+      "description": null,
+      "start_time": "2024-06-03T17:00:00.000Z",
+      "stop_time": "2024-06-06T17:00:00.000Z",
       "platforms": [
-        "mobile",
         "extension"
       ],
       "os": null
@@ -104,44 +58,6 @@
         "instruction": null,
         "action": {
           "id": 38,
-          "url": "subwallet://home/main/earning",
-          "screen": null,
-          "params": null,
-          "is_cancel": null
-        }
-      }
-    ],
-    "conditions": {}
-  },
-  {
-    "id": 21,
-    "priority": 1,
-    "position": "token",
-    "repeat": "once",
-    "content": null,
-    "repeat_every_x_days": null,
-    "media": null,
-    "position_params": [],
-    "info": {
-      "id": 42,
-      "name": "Test crowdloan",
-      "description": "Description",
-      "start_time": "2024-05-08T17:00:00.000Z",
-      "stop_time": "2024-05-29T17:00:00.000Z",
-      "platforms": [
-        "mobile",
-        "extension"
-      ],
-      "os": null
-    },
-    "buttons": [
-      {
-        "id": 33,
-        "label": "Continue",
-        "color": "primary",
-        "instruction": null,
-        "action": {
-          "id": 39,
           "url": "subwallet://home/main/earning",
           "screen": null,
           "params": null,
