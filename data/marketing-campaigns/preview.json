@@ -1473,5 +1473,38 @@
         ]
       }
     ]
+  },
+  {
+    "id": 78,
+    "name": "Test marketing campain on OpenBit",
+    "description": null,
+    "start_time": "2024-06-04T17:00:00.000Z",
+    "end_time": "2024-06-06T17:00:00.000Z",
+    "condition": null,
+    "banners": [
+      {
+        "id": 144,
+        "alt": null,
+        "action": null,
+        "metadata": null,
+        "environments": [
+          "extension"
+        ],
+        "position": [
+          "home"
+        ],
+        "buttons": [
+          {
+            "name": "I understand",
+            "icon": null,
+            "color": "primary",
+            "type": null,
+            "metadata": null
+          }
+        ],
+        "media": "https://media-resources.subwallet.app//9/Stella_Swap_Galxe_campaign_89a3ec5863.png"
+      }
+    ],
+    "notifications": []
   }
 ]
