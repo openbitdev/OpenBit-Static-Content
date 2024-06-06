@@ -1509,12 +1509,12 @@
   },
   {
     "id": 79,
-    "name": "Test - Currency",
+    "name": "Test on OpenBit",
     "description": null,
     "start_time": "2024-06-03T17:00:00.000Z",
     "end_time": "2024-06-07T16:59:00.000Z",
     "condition": {
-      "allowedTokenSlug": "['DOT-Polkadot']"
+      "allowedTokenSlug": "['bitcoin-NATIVE-BTC']"
     },
     "banners": [
       {
